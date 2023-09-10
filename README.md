@@ -33,7 +33,7 @@ xray panel supporting multi-protocol, **Multi-lang (English,Farsi,Chinese,Russia
 # Install & Upgrade to latest version
 
 ```sh
-bash <(curl -Ls https://raw.githubusercontent.com/alireza0/x-ui/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/rasulovdd/x-ui-backup/master/install.sh)
 ```
 
 ## Install custom version
@@ -41,12 +41,12 @@ bash <(curl -Ls https://raw.githubusercontent.com/alireza0/x-ui/master/install.s
 To install your desired version you can add the version to the end of install command. Example for ver `0.5.2`:
 
 ```sh
-bash <(curl -Ls https://raw.githubusercontent.com/alireza0/x-ui/master/install.sh) 0.5.2
+bash <(curl -Ls https://raw.githubusercontent.com/rasulovdd/x-ui-backup/master/install.sh) 0.5.2
 ```
 
 ## Manual install & upgrade
 
-1. First download the latest compressed package from https://github.com/alireza0/x-ui/releases, generally choose Architecture `amd64`
+1. First download the latest compressed package from https://github.com/rasulovdd/x-ui-backup/releases, generally choose Architecture `amd64`
 2. Then upload the compressed package to the server's `/root/` directory and `root` rootlog in to the server with user
 
 > If your server cpu architecture is not `amd64` replace another architecture
